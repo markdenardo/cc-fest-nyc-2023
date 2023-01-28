@@ -27,6 +27,12 @@ https://scratch.mit.edu/projects/102560562/<br>
 Forever-chill<br>
 https://www.instagram.com/p/CnyKh9WjOP6/<br></h4>
 
+<h4>Scratch brief bio :<br>
+https://en.wikipedia.org/wiki/Scratch_(programming_language)<br>
+-Block-based Visual Programming Language<br>
+-Explanation of the Types of Blocks</h4>
+
+
 <h2>Spells</h2>
 
 Spell #1: Scratch Clone
