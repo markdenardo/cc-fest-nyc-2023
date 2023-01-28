@@ -14,12 +14,12 @@ Live Coder / Musician / Teacher
 Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)
 @markdenardo (IG)
 
-Fundamentals of Scratch
-https://scratch.mit.edu/projects/712754438/
-Cat Mandala
-https://scratch.mit.edu/projects/102560562/
-forever-chill
-https://www.instagram.com/p/CnyKh9WjOP6/
+-Fundamentals of Scratch
+-https://scratch.mit.edu/projects/712754438/
+-Cat Mandala
+-https://scratch.mit.edu/projects/102560562/
+-forever-chill
+-https://www.instagram.com/p/CnyKh9WjOP6/
 
 Scratch brief bio :
 https://en.wikipedia.org/wiki/Scratch_(programming_language)
