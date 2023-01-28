@@ -25,8 +25,6 @@ https://www.instagram.com/p/CnyKh9WjOP6/
 
 Scratch brief bio :
 https://en.wikipedia.org/wiki/Scratch_(programming_language)
-Block-based Visual Programming Language
-Explanation of the Blocks
 
 Spell #1: Scratch Clone
 https://scratch.mit.edu/projects/794903731/
