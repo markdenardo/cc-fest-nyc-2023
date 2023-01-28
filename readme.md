@@ -11,7 +11,7 @@ Because Scratch was developed with many of the features we see today in contempo
 we can safely test and iterate Live Coding and Creative Coding techniques on Scratch,<br>
 using software engineering and design theory.<br>
 
-
+<h2>Intro</h2>
 <h4>MDN Bio:<br>
 BIPOC/(they/them)<br>
 Live Coder / Musician / Teacher<br>
