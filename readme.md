@@ -29,9 +29,6 @@ https://scratch.mit.edu/projects/102560562/
 Forever-chill
 https://www.instagram.com/p/CnyKh9WjOP6/
 
-Scratch :
-https://en.wikipedia.org/wiki/Scratch_(programming_language)
-
 <h2>Spells</h2>
 
 Spell #1: Scratch Clone
