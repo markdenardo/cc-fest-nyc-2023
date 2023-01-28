@@ -6,13 +6,15 @@ What makes a project Live Coding?<br>
 What makes a project Creative Coding?<br>
 What can we do in other frameworks that we can also do in Scratch?<br>
 
-Because Scratch was developed with many of the features we see today in contemporary creative coding frameworks, we can safely test and iterate Live Coding and Creative Coding techniques on Scratch, using software engineering and design theory.
+Because Scratch was developed with many of the features we see today in contemporary creative coding frameworks,<br>
+we can safely test and iterate Live Coding and Creative Coding techniques on Scratch,<br>
+using software engineering and design theory.<br>
 
 <h2>MDN bio :</h2>
-BIPOC/(they/them)
-Live Coder / Musician / Teacher
-Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)
-@markdenardo (IG)
+BIPOC/(they/them)<br>
+Live Coder / Musician / Teacher<br>
+Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)<br>
+@markdenardo (IG)<br>
 
 <h3>Scratch Projects</h3>
 
