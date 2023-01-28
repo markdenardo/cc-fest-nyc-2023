@@ -12,7 +12,7 @@ we can safely test and iterate Live Coding and Creative Coding techniques on Scr
 using software engineering and design theory.<br>
 
 
-<h4>MDN Bio:
+<h4>MDN Bio:<br>
 BIPOC/(they/them)<br>
 Live Coder / Musician / Teacher<br>
 Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)<br>
