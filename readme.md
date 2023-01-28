@@ -38,11 +38,10 @@ https://en.wikipedia.org/wiki/Scratch_(programming_language)<br>
 Spell #1: Scratch Clone<br>
 https://scratch.mit.edu/projects/794903731/<br>
 Spell #2 Amen Theramin<br>
-https://scratch.mit.edu/projects/794889831/<br></h4>
-
-Spell #3 Face Sketch
-https://lab.scratch.mit.edu/
-Google Drive Link
+https://scratch.mit.edu/projects/794889831/<br>
+Spell #3 Face Sketch<br>
+https://lab.scratch.mit.edu/<br>
+Google Drive Link:  https://drive.google.com/file/d/1OvanaGNpoVAGetuxG1h-Tkf34DChc0K8/view?usp=share_link</h4>
 
 <h2>Assignment</h2>
 
