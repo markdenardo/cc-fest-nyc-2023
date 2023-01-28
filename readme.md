@@ -19,7 +19,6 @@ Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)<br>
 @markdenardo (IG)<br>
 
 <h4>MDN Scratch Projects<br>
-<br>
 Fundamentals of Scratch<br>
 https://scratch.mit.edu/projects/712754438/<br>
 Cat Mandala<br>
