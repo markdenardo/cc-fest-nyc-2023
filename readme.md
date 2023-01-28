@@ -24,7 +24,7 @@ https://scratch.mit.edu/projects/712754438/<br>
 Cat Mandala<br>
 https://scratch.mit.edu/projects/102560562/<br>
 Forever-chill<br>
-https://www.instagram.com/p/CnyKh9WjOP6/<br></h4>
+https://scratch.mit.edu/projects/765538097<br></h4>
 
 <h4>Scratch brief bio :<br>
 https://en.wikipedia.org/wiki/Scratch_(programming_language)<br>
