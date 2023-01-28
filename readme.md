@@ -45,6 +45,8 @@ Google Drive Link
 <h2>Assignment</h2>
 
 Assignment:
-Ideation: genuary.art, @creativecodeart, I-Ching, Oblique Strategies, etc.
-Pick one idea to explore in Scratch
-Try to execute that idea as quickly as possible; find your flow
+Ideation: genuary.art, @creativecodeart, I-Ching, Oblique Strategies, etc.<br>
+Pick one idea to explore in Scratch<br>
+Try to execute that idea as quickly as possible; find your flow<br>
+
+Bless 🌱
