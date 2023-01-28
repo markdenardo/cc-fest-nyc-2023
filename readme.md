@@ -34,12 +34,11 @@ https://en.wikipedia.org/wiki/Scratch_(programming_language)<br>
 
 
 <h2>Spells</h2>
-
-Spell #1: Scratch Clone
-https://scratch.mit.edu/projects/794903731/
-
-Spell #2 Amen Theramin
-https://scratch.mit.edu/projects/794889831/
+<h4>
+Spell #1: Scratch Clone<br>
+https://scratch.mit.edu/projects/794903731/<br>
+Spell #2 Amen Theramin<br>
+https://scratch.mit.edu/projects/794889831/<br></h4>
 
 Spell #3 Face Sketch
 https://lab.scratch.mit.edu/
