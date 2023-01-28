@@ -33,7 +33,7 @@ https://en.wikipedia.org/wiki/Scratch_(programming_language)<br>
 -Explanation of the Types of Blocks</h4>
 
 
-<h2>Spells</h2>
+<h2>Example Spells</h2>
 <h4>
 Spell #1: Scratch Clone<br>
 https://scratch.mit.edu/projects/794903731/<br>
