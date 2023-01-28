@@ -11,23 +11,20 @@ Because Scratch was developed with many of the features we see today in contempo
 we can safely test and iterate Live Coding and Creative Coding techniques on Scratch,<br>
 using software engineering and design theory.<br>
 
-<h2> Bio :</h2>
-MDN :
+
+<h3>MDN Bio:</h3>
 BIPOC/(they/them)<br>
 Live Coder / Musician / Teacher<br>
 Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)<br>
 @markdenardo (IG)<br>
 
-<h3>MDN Scratch Projects</h3>
-
-Fundamentals of Scratch
-https://scratch.mit.edu/projects/712754438/
-
-Cat Mandala
-https://scratch.mit.edu/projects/102560562/
-
-Forever-chill
-https://www.instagram.com/p/CnyKh9WjOP6/
+<h4>MDN Scratch Projects<br>
+Fundamentals of Scratch<br>
+https://scratch.mit.edu/projects/712754438/<br>
+Cat Mandala<br>
+https://scratch.mit.edu/projects/102560562/<br>
+Forever-chill<br>
+https://www.instagram.com/p/CnyKh9WjOP6/<br></h4>
 
 <h2>Spells</h2>
 
