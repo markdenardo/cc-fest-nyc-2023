@@ -1,6 +1,6 @@
 <h1> Fundamentals of Scratch: Spells and Block-Based Creative Coding ✨</h1>
 
-https://github.com/markdenardo/cc-fest-nyc-2023
+https://github.com/markdenardo/cc-fest-nyc-2023<br>
 Google Drive Link : https://docs.google.com/document/d/16x-2IMfomKIKN9s4WqQDSPG1yHltmFiorps93de0q8Q/
 
 What makes a project Live Coding?<br>
