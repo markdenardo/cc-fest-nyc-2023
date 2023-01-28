@@ -1,6 +1,6 @@
-Google Drive Link : https://docs.google.com/document/d/16x-2IMfomKIKN9s4WqQDSPG1yHltmFiorps93de0q8Q/
+Fundamentals of Scratch: Spells and Block Based Creative Coding by MDN ✨
 
-Mark DeNardo - Fundamentals of Scratch: Spells and Block Based Creative Coding
+Google Drive Link : https://docs.google.com/document/d/16x-2IMfomKIKN9s4WqQDSPG1yHltmFiorps93de0q8Q/
 
 What makes a project Live Coding?
 What makes a project Creative Coding?
