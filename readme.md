@@ -3,7 +3,6 @@
 https://github.com/markdenardo/cc-fest-nyc-2023<br>
 Google Drive Link : https://docs.google.com/document/d/16x-2IMfomKIKN9s4WqQDSPG1yHltmFiorps93de0q8Q/
 
-<h2>Abstract</h2>
 What makes a project Live Coding?<br>
 What makes a project Creative Coding?<br>
 What can we do in other frameworks that we can also do in Scratch?<br>
