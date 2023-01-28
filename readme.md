@@ -18,7 +18,7 @@ Live Coder / Musician / Teacher<br>
 Lead Educator at NEST+m After3 Program (Scratch, Ruby, Python, JS)<br>
 @markdenardo (IG)<br>
 
-<h3>Scratch Projects</h3>
+<h3>MDN Scratch Projects</h3>
 
 Fundamentals of Scratch
 https://scratch.mit.edu/projects/712754438/
