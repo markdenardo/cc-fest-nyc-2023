@@ -1,4 +1,4 @@
-# Fundamentals of Scratch: Spells and Block Based Creative Coding by MDN ✨
+<h1> Fundamentals of Scratch: Spells and Block Based Creative Coding ✨</h1>
 
 Google Drive Link : https://docs.google.com/document/d/16x-2IMfomKIKN9s4WqQDSPG1yHltmFiorps93de0q8Q/
 
